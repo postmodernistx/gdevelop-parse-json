@@ -15,3 +15,6 @@ The response looks something like this:
 2. The API-received JSON data/string is parsed into a structure and saved into a scene (?) variable called `jsonAsObject`. The variable was created as a structure, but I'm not sure if that matters for the parsing of the result.
 
 3. The text of the scene variable `JSONData` is set to the `name` property received from SWAPI (should display `Luke Skywalker`).
+
+Make sure to click the "Wait for action to be completed" toggle:
+![image](https://user-images.githubusercontent.com/18628999/197125611-0cf79abe-65e4-497a-82a8-1b092df5cc8e.png)
